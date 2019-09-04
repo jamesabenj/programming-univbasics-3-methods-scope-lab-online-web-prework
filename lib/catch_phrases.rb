@@ -14,8 +14,7 @@ def link
   puts status
 end
 
-def any_phrase
-  phrase = "Do A Barrel Roll!"any_phrase(phrase)
-
+def any_phrase(phrase)
+  phrase = "Do A Barrel Roll!"
 end 
 
